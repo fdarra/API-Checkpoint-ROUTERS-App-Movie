@@ -1,0 +1,24 @@
+
+
+.fieldset {
+  display: inline;
+  justify-content: start;
+  justify-items: center;
+  border: solid;
+  color: #080808;
+  border-radius: 1em;
+  margin: 2em 1em 1em;
+  padding: 5px 5px 10px 30px ;
+  width: 80%;
+  height: 100px;
+  
+  
+}
+
+.legend {
+  transform: translatey(-75%);
+  width: max-content;
+  background: white;
+  color: black;
+}
+
